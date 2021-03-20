@@ -184,6 +184,7 @@ footer nav a {
     text-decoration: none;
     font-size: 12px;
 }
+
 footer nav a:hover {
     color: black;
     background-color: white;
@@ -263,3 +264,4 @@ hr {
 .lastSection p {
     margin-bottom: 12px;
 }
+
